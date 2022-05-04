@@ -1,7 +1,7 @@
 module.exports = {
-    "BOT_TOKEN": "", //Telegram Bot Token
+    "BOT_TOKEN": "5367439826:AAHrc5StK4IyrHizvPKIi8bWvY_3RkJcqFA", //Telegram Bot Token
     "ADMINS": {
-        "OWNER": 1212899433,
+        "OWNER": 2141842369,
         "MODERATORS": []
     },
     "MAX_DOMAINS_PER_PAGE": 5, //Number of domains per page in custom domain selection list
@@ -12,8 +12,8 @@ module.exports = {
     	"TDS": 3,
     	"DAYS": 30
     },
-    "WELCOME_MESSAGE": "Hi, welcome to SDGen-Bot",
-    "SIGNATURE_MESSAGE": "Made with ❤️ by Albert Einstein",
+    "WELCOME_MESSAGE": "Hi, welcome to SDmototu_bot",
+    "SIGNATURE_MESSAGE": "Made by Mototu",
     "BOT_MAINTENANCE_MODE_ENABLED": false,
     "domains": [] //see /src/domain.inc.js for format
 }
